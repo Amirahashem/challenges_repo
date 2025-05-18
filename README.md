@@ -1,1 +1,1 @@
-# challenge_repo
+# challenges_repo
