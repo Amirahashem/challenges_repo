@@ -27,5 +27,7 @@ var card = `
     <h3> ${cardTitle}</h3>
     <p> ${cardDescription}</p>
     <span> ${cardDate}</span>
-</div>`
+</div>`;
+
+// [3]
 document.writeln(card.repeat(4));
